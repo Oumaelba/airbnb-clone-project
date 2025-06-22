@@ -47,7 +47,7 @@ By the end of this project, we aim to:
 
 ---
 
-## 🎨 UI/UX Design Overview
+## 🎨 UI/UX Design Planning
 
 ### Design Goals
 - Intuitive booking flow  
