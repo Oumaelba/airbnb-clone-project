@@ -90,7 +90,7 @@ By the end of this project, we aim to:
 
 ---
 
-## 👥 Roles and Responsibilities
+## 👥 Project Roles and Responsibilities
 
 | Role               | Responsibilities                                                |
 |--------------------|------------------------------------------------------------------|
